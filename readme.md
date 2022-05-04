@@ -9,7 +9,7 @@ test 123
 	git clone https://github.com/spring-projects/spring-petclinic.git
 	mvn tomcat7:run
 ```
-
+[Your link here](https://www.youtube.com/watch?v=ywnfyiu7c_k)
 You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
